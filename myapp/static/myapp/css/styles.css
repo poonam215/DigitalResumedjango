@@ -1,0 +1,28 @@
+.st-font {
+    font-family: 'Satisfy', cursive;
+    font-family: 'Tinos', serif;
+}
+html,
+body {
+    height: 100%;
+    background-color: #1b1c1c;
+}
+.container-fluid {
+    min-height: 100%;
+}
+.i-color {
+    color: greenyellow;
+}
+
+a.nav-link {
+    color: whitesmoke;
+}
+a.nav-link:hover {
+    background-color:transparent;
+    color: white;
+}
+a.nav-link.active {
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+}
